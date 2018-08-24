@@ -1,3 +1,3 @@
-playlist = {
-  'Young the Giant': "Islands"
-}
+playlist = {}
+
+playlist['Young the Giant'] = "Islands"
