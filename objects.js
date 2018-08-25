@@ -1,4 +1,4 @@
-playlist = {}
+var playlist = {}
 
 playlist['Young the Giant'] = "Islands"
 
